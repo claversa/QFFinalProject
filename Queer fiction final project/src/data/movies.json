@@ -1,6 +1,8 @@
 [
     {
+        "id": 1,
         "title": "Blue is the Warmest Color",
+        "poster": "blue.jpg",
         "director": "Abdellatif Kechiche",
         "release_date": "October 9, 2013",
         "description": "A deeply emotional coming-of-age story about Adèle, a young woman whose life changes after meeting Emma, an artist with blue hair. The film explores themes of love, identity, and self-discovery.",
@@ -9,7 +11,9 @@
         "review": "An incredibly raw and intimate portrayal of first love and heartbreak. The performances are unforgettable."
     },
     {
+        "id": 2,
         "title": "Portrait of a Lady on Fire",
+        "poster": "portrait.jpg",
         "director": "Céline Sciamma",
         "release_date": "September 18, 2019",
         "description": "Set in 18th-century France, this visually stunning film tells the story of Marianne, a painter, and Héloïse, a young woman whose portrait she is commissioned to paint in secret. Their bond deepens into a passionate romance.",
@@ -18,7 +22,9 @@
         "review": "A masterpiece of visual storytelling and emotional depth. Every frame feels like a painting, and the love story is profoundly moving."
     },
     {
+        "id": 3,
         "title": "Beach Rats",
+        "poster": "beachrats.jpg",
         "director": "Eliza Hittman",
         "release_date": "January 23, 2017",
         "description": "A gritty and introspective look at Frankie, a young man from Brooklyn struggling with his sexuality while navigating life with his friends and family.",
@@ -27,7 +33,9 @@
         "review": "A haunting and beautifully shot exploration of identity and repression. Frankie's journey is both compelling and heart-wrenching."
     },
     {
+        "id": 4,
         "title": "Moonlight",
+        "poster": "moonlight.jpg",
         "director": "Barry Jenkins",
         "release_date": "October 21, 2016",
         "description": "A groundbreaking and deeply emotional story of Chiron, a young Black man coming to terms with his sexuality and identity while growing up in a rough Miami neighborhood.",
@@ -36,7 +44,9 @@
         "review": "A poetic and powerful film that touches the soul. The performances and storytelling are unparalleled."
     },
     {
+        "id": 5,
         "title": "Call Me By Your Name",
+        "poster": "callme.jpg",
         "director": "Luca Guadagnino",
         "release_date": "January 22, 2017",
         "description": "Set in 1980s Italy, this romantic drama follows Elio, a teenager, and Oliver, an older graduate student, as they navigate an intense summer romance.",
@@ -45,7 +55,9 @@
         "review": "A lush and sensual film that captures the beauty and pain of first love. The chemistry between the leads is unforgettable."
     },
     {
+        "id": 6,
         "title": "Brokeback Mountain",
+        "poster": "brokeback.jpg",
         "director": "Ang Lee",
         "release_date": "December 9, 2005",
         "description": "A poignant story of two cowboys, Ennis and Jack, who form an intense connection that spans decades despite societal pressures and personal struggles.",
@@ -54,7 +66,9 @@
         "review": "A heartbreaking and beautifully acted love story that remains timeless. Its emotional depth is unparalleled."
     },
     {
+        "id": 7,
         "title": "Mysterious Skin",
+        "poster": "mysteriousskin.jpg",
         "director": "Gregg Araki",
         "release_date": "May 7, 2005",
         "description": "A gripping and emotional tale of two boys, Neil and Brian, whose lives are forever changed by a shared traumatic event in their childhood.",
@@ -63,7 +77,9 @@
         "review": "An unflinching and devastatingly beautiful film. Its raw storytelling is both haunting and unforgettable."
     },
     {
+        "id": 8,
         "title": "Dallas Buyers Club",
+        "poster": "dallas.jpg",
         "director": "Jean-Marc Vallée",
         "release_date": "November 1, 2013",
         "description": "Based on true events, the film follows Ron Woodroof, a man diagnosed with AIDS in the 1980s, as he smuggles unapproved medication into the U.S. to help himself and others survive.",
@@ -72,7 +88,9 @@
         "review": "A powerful and inspiring story with exceptional performances. Both moving and thought-provoking."
     },
     {
+        "id": 9,
         "title": "Paris is Burning",
+        "poster": "paris.jpg",
         "director": "Jennie Livingston",
         "release_date": "August 1, 1991",
         "description": "A groundbreaking documentary that delves into the lives and culture of New York City’s drag ball scene during the late 1980s, highlighting the resilience and creativity of Black and Latinx LGBTQ+ communities.",
@@ -81,7 +99,9 @@
         "review": "A moving and essential portrait of community and expression. The documentary is as educational as it is deeply human."
     },
     {
+        "id": 10,
         "title": "I Saw the TV Glow",
+        "poster": "tvglow.jpg",
         "director": "Jane Schoenbrun",
         "release_date": "2024 (TBA)",
         "description": "A dark and surreal exploration of two friends whose obsession with a mysterious TV show blurs the boundaries between reality and fiction.",
@@ -90,7 +110,9 @@
         "review": "An unsettling yet captivating dive into the power of media and imagination. Its eerie tone stays with you long after watching."
     },
     {
+        "id": 11,
         "title": "Yellowjackets",
+        "poster": "yellowjackets.jpg",
         "creator": "Ashley Lyle and Bart Nickerson",
         "release_date": "November 14, 2021",
         "description": "A thrilling and haunting series about a high school girls’ soccer team whose plane crashes in the wilderness, intertwining their survival story with the lives of their adult selves.",
@@ -99,7 +121,9 @@
         "review": "An intense and addictive series with incredible performances. The mix of mystery and character-driven drama is perfection."
     },
     {
+        "id": 12,
         "title": "Rocky Horror Picture Show",
+        "poster": "rockyhorror.jpg",
         "director": "Jim Sharman",
         "release_date": "August 14, 1975",
         "description": "A cult classic musical about Brad and Janet, a couple who stumble upon a bizarre mansion and its eccentric residents, led by Dr. Frank-N-Furter, during a storm.",
@@ -108,7 +132,9 @@
         "review": "An iconic and endlessly fun experience. The music and campy charm make it an unforgettable ride."
     },
     {
+        "id": 13,
         "title": "The Half of It",
+        "poster": "halfofit.jpeg",
         "director": "Alice Wu",
         "release_date": "May 1, 2020",
         "description": "A heartwarming coming-of-age story about Ellie Chu, a shy high school student who helps a jock write love letters to a girl she secretly loves herself.",
@@ -117,7 +143,9 @@
         "review": "A sweet and thoughtful film about identity and connection. It balances humor and emotion beautifully."
     },
     {
+        "id": 14,
         "title": "The Imitation Game",
+        "poster": "imitation.jpg",
         "director": "Morten Tyldum",
         "release_date": "November 28, 2014",
         "description": "A biographical drama about Alan Turing, a brilliant mathematician who helped crack the Enigma code during World War II but faced persecution for his sexuality.",

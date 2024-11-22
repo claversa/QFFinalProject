@@ -1,0 +1,183 @@
+[
+    {
+        "id": 1,
+        "name": "girl in red",
+        "poster": "girlinred.jpg",
+        "real_name": "Marie Ulven",
+        "genre": "Indie Pop, Alternative, LGBTQ+",
+        "description": "A Norwegian singer-songwriter known for her raw and heartfelt lyrics that explore themes of love, identity, and mental health. Her music has become anthems for the LGBTQ+ community.",
+        "reviewer": "Caroline",
+        "review": "A genuine and refreshing voice in indie music. Her lyrics feel like intimate conversations, making her songs deeply relatable.",
+        "notable_works": [
+            "we fell in love in october",
+            "i need to be alone",
+            "bad idea!"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "King Princess",
+        "poster": "kingprincess.jpg",
+        "real_name": "Mikaela Straus",
+        "genre": "Pop, Indie Pop, LGBTQ+",
+        "description": "An American singer-songwriter and multi-instrumentalist known for her powerful voice and boundary-pushing music that celebrates queer love and self-expression.",
+        "reviewer": "Caroline",
+        "review": "Effortlessly cool and unapologetically herself. King Princess’s music is both catchy and deeply meaningful.",
+        "notable_works": [
+            "1950",
+            "Hit the Back",
+            "Talia"
+        ]
+    },
+    {
+        "id": 3,
+        "poster": "freddie.jpg",
+        "name": "Freddie Mercury",
+        "real_name": "Farrokh Bulsara",
+        "genre": "Rock, Glam Rock, Pop Rock",
+        "description": "The legendary lead vocalist of Queen, known for his dynamic stage presence, incredible vocal range, and timeless hits like 'Bohemian Rhapsody' and 'Somebody to Love.'",
+        "reviewer": "Caroline",
+        "review": "An icon in every sense of the word. Freddie Mercury’s charisma and talent are unmatched and will forever inspire.",
+        "notable_works": [
+            "Bohemian Rhapsody",
+            "Somebody to Love",
+            "We Are the Champions"
+        ]
+    },
+    {
+        "id": 4,
+        "poster": "elton.jpg",
+        "name": "Elton John",
+        "real_name": "Reginald Kenneth Dwight",
+        "genre": "Pop, Rock, Glam Rock",
+        "description": "A British music legend whose career spans over five decades, known for his flamboyant style, unforgettable melodies, and hits like 'Rocket Man' and 'Tiny Dancer.'",
+        "reviewer": "Caroline",
+        "review": "A true musical genius. Elton John's ability to create timeless songs is nothing short of extraordinary.",
+        "notable_works": [
+            "Rocket Man",
+            "Tiny Dancer",
+            "Your Song"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Troye Sivan",
+        "poster": "troyesivan.jpg",
+        "real_name": "Troye Sivan Mellet",
+        "genre": "Pop, Electro-Pop, LGBTQ+",
+        "description": "An Australian singer-songwriter and actor who gained fame with his introspective pop music that often explores themes of love, youth, and self-discovery.",
+        "reviewer": "Caroline",
+        "review": "Troye’s music is dreamy and evocative, capturing the essence of modern pop with an emotional edge.",
+        "notable_works": [
+            "Youth",
+            "My My My!",
+            "Bloom"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Lady Gaga",
+        "poster": "gaga.jpg",
+        "real_name": "Stefani Joanne Angelina Germanotta",
+        "genre": "Pop, Dance, Electronic, Rock",
+        "description": "An American singer, songwriter, and actress known for her versatility, theatrical performances, and groundbreaking music that blends genres and pushes boundaries. She is also a strong advocate for mental health and LGBTQ+ rights.",
+        "reviewer": "Caroline",
+        "review": "Lady Gaga is a powerhouse of creativity and talent. Her music and performances are transformative, leaving an indelible mark on the world of entertainment.",
+        "notable_works": [
+            "Bad Romance",
+            "Poker Face",
+            "Shallow",
+            "Born This Way"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Kevin Atwater",
+        "poster": "kevinatwater.jpg",
+        "real_name": "Kevin Atwater",
+        "genre": "Indie, Folk, Acoustic",
+        "description": "An emerging artist known for their soulful voice and introspective songwriting, blending raw emotion with soothing melodies.",
+        "reviewer": "Kailey",
+        "review": "Kevin’s music is deeply personal and captivating, perfect for quiet moments of reflection.",
+        "notable_works": [
+            "Home",
+            "Falling",
+            "The Road"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Towa Bird",
+        "poster": "towabird.jpg",
+        "real_name": "Towa Bird",
+        "genre": "Alternative Rock, Indie, Punk",
+        "description": "A dynamic guitarist and singer-songwriter who blends vibrant energy with sharp, emotionally charged lyrics.",
+        "reviewer": "Kailey",
+        "review": "Towa’s talent on the guitar is unmatched, and her music bursts with energy and originality.",
+        "notable_works": [
+            "Empty Roads",
+            "Shattered Dreams",
+            "Wasted Time"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "NOAHFINNCE",
+        "poster": "noahfinnce.jpg",
+        "real_name": "Noah Adams",
+        "genre": "Pop-Punk, Alternative Rock",
+        "description": "A UK-based musician who brings high-energy pop-punk vibes with unapologetic, heartfelt lyrics about identity and self-expression.",
+        "reviewer": "Kailey",
+        "review": "Noah’s music is anthemic and empowering, with a fresh take on pop-punk that feels both nostalgic and new.",
+        "notable_works": [
+            "Me Myself & I",
+            "Hollow",
+            "Loving You"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Leith Ross",
+        "poster": "leithross.jpg",
+        "real_name": "Leith Ross",
+        "genre": "Indie Folk, Acoustic",
+        "description": "A Canadian singer-songwriter with a gift for storytelling and an ethereal voice that captivates listeners with heartfelt, minimalist tracks.",
+        "reviewer": "Kailey",
+        "review": "Leith’s songs are beautifully intimate, as though they’re telling you a secret through music.",
+        "notable_works": [
+            "The Time I Spent With You",
+            "Lately",
+            "Safe"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Leanna Firestone",
+        "poster": "leanna.jpeg",
+        "real_name": "Leanna Firestone",
+        "genre": "Pop, Indie, Acoustic",
+        "description": "A singer-songwriter whose music blends wit and vulnerability, crafting relatable songs about love, heartbreak, and self-discovery.",
+        "reviewer": "Kailey",
+        "review": "Leanna’s lyrics are as clever as they are emotional, making her music both fun and deeply moving.",
+        "notable_works": [
+            "That's Just Life",
+            "Why Do I Fall in Love With Every Man I See",
+            "Not the One"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Abby Cates",
+        "poster": "abbycates.jpg",
+        "real_name": "Abby Cates",
+        "genre": "Pop, Soul, Indie",
+        "description": "An up-and-coming artist known for her stunning vocals and ability to infuse pop music with soulful emotion and authenticity.",
+        "reviewer": "Kailey",
+        "review": "Abby’s voice is absolutely mesmerizing, and her music feels like a warm embrace.",
+        "notable_works": [
+            "Call Me When You're Lonely",
+            "The Same Love",
+            "I Will Wait"
+        ]
+    }
+]
