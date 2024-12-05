@@ -5,6 +5,7 @@ import musicians from '../data/musicians.json';
 const MusicReview = () => {
     const { id } = useParams();
     const musician = musicians.find((m) => m.id === parseInt(id));
+    console.log(musician)
 
     if (!musician) {
         return <div>Musician not found!</div>;

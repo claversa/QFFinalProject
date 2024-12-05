@@ -5,6 +5,7 @@ import movies from '../data/movies.json';
 const MovieReview = () => {
     const { id } = useParams();
     const movie = movies.find((m) => m.id === parseInt(id));
+    console.log(movie);
 
     if (!movie) {
         return <div>Movie not found!</div>;

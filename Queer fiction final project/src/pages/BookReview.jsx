@@ -5,6 +5,7 @@ import books from '../data/books.json';
 const BookReview = () => {
     const { id } = useParams();
     const book = books.find((b) => b.id === parseInt(id));
+    console.log(book);
 
     if (!book) {
         return <div>Book not found!</div>;
